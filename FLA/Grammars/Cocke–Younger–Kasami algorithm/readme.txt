@@ -1,0 +1,1 @@
+The grammar give as input should be in the CNF.

@@ -1,0 +1,1 @@
+Use the Makefile with the sources and the input file given in order to transform the automata from L-NFA to NFA, then to DFA and to finally minimize it. 

@@ -1,0 +1,1 @@
+Transformation algorithm of some grammar to its CNF
